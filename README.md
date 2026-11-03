@@ -7,12 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+systems+that+actually+work;Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+RAG;Full-stack+apps+from+idea+to+deploy;Final+Year+Project%3A+Digital+Twin" alt="typing" />
 </a>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=umair-AI-ML-DEV&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/umair-AI-ML-DEV?style=for-the-badge&logo=github&color=8957e5)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/umair-AI-ML-DEV&query=$.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&color=2ea043)
-
 </div>
 
 ---
@@ -23,12 +17,10 @@
 - 🧠 Into **machine learning, computer vision and LLM / RAG** systems
 - 🌐 I also build **full-stack web apps** (MERN, Django, NestJS, Next.js)
 - 🌱 Learning: MLOps, full-stack deep learning, agentic AI
-- 🤗 Find my models and demos on Hugging Face below
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-safdar-dev)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mwasifhaider1)
 
 </div>
 
@@ -106,25 +98,6 @@ Enterprise recruitment and networking platform built on the MERN stack.
 - 🤖 [AI Bootcamp](https://github.com/umair-AI-ML-DEV/ai-bootcamp): learning material from the Prelogics bootcamp
 
 </details>
-
----
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=umair-AI-ML-DEV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umair-AI-ML-DEV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umair-AI-ML-DEV&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umair-AI-ML-DEV&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="activity graph" width="100%" />
-
-</div>
 
 ---
 
